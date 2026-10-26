@@ -8,7 +8,6 @@
 [![Groq](https://img.shields.io/badge/LLM%20Inference-Groq%20Cloud-f55036?logo=speedtest&logoColor=white)](https://groq.com/)
 [![Sentence Transformers](https://img.shields.io/badge/Embeddings-all--MiniLM--L6--v2-yellow)](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
 [![NumPy](https://img.shields.io/badge/Similarity-Pure%20NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 <p align="center">
   <b>Upload research papers in PDF format, ask natural language questions, and receive accurate answers strictly grounded in the paper with verifiable <code>[Page X]</code> citations.</b>
@@ -270,7 +269,3 @@ On the first run, <code>sentence-transformers</code> downloads the <code>all-Min
 </details>
 
 ---
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE). Built for learning and educational purposes.
